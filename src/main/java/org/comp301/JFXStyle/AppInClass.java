@@ -31,16 +31,4 @@ public class AppInClass extends Application {
     public static void main(String[] args) {
         launch();
     }
-
-    private static Label makeTile(int num) {
-        Label tile;
-        if (num == 0) {
-            tile = new Label();
-        } else {
-            tile = new Label(String.valueOf(num));
-        }
-        tile.getStyleClass().add("tile");
-        tile.getStyleClass().add("tile-" + num);
-        return tile;
-    }
 }
