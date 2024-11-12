@@ -1,4 +1,4 @@
-package org.comp301;
+package org.comp301.HelloWorld;
 
 
 import javafx.application.Application;

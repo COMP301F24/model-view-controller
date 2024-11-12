@@ -71,7 +71,7 @@
                 <artifactId>javafx-maven-plugin</artifactId>
                 <version>0.0.5</version>
                 <configuration>
-                    <mainClass>org.comp301.App</mainClass>
+                    <mainClass>org.comp301.JFXStyle.AppInClass</mainClass>
                 </configuration>
             </plugin>
         </plugins>
