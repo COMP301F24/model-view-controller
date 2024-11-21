@@ -1,4 +1,4 @@
-package org.comp301.Spotify.View;
+package org.comp301.ProfPractice.View;
 
 import javafx.scene.Parent;
 

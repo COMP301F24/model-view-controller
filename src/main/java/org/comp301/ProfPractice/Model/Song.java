@@ -1,4 +1,4 @@
-package org.comp301.Spotify.Model;
+package org.comp301.ProfPractice.Model;
 
 public interface Song {
     String getTitle();
