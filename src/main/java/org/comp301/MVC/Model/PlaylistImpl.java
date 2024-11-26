@@ -1,4 +1,4 @@
-package org.comp301.ProfPractice.Model;
+package org.comp301.MVC.Model;
 
 import java.util.*;
 

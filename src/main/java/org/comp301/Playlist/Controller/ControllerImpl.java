@@ -1,7 +1,7 @@
-package org.comp301.ProfPractice.Controller;
+package org.comp301.Playlist.Controller;
 
-import org.comp301.ProfPractice.Model.Playlist;
-import org.comp301.ProfPractice.Model.SongImpl;
+import org.comp301.Playlist.Model.Playlist;
+import org.comp301.Playlist.Model.SongImpl;
 
 public class ControllerImpl implements Controller{
     private Playlist playlist;

@@ -1,15 +1,14 @@
-package org.comp301.ProfPractice.View;
+package org.comp301.MVC.View;
 
 import javafx.application.Application;
 import javafx.scene.Scene;
-import javafx.scene.layout.VBox;
 import javafx.stage.Stage;
-import org.comp301.ProfPractice.Controller.Controller;
-import org.comp301.ProfPractice.Controller.ControllerImpl;
-import org.comp301.ProfPractice.Model.Playlist;
-import org.comp301.ProfPractice.Model.PlaylistImpl;
-import org.comp301.ProfPractice.Model.Song;
-import org.comp301.ProfPractice.Model.SongImpl;
+import org.comp301.Playlist.Controller.Controller;
+import org.comp301.Playlist.Controller.ControllerImpl;
+import org.comp301.Playlist.Model.Playlist;
+import org.comp301.Playlist.Model.PlaylistImpl;
+import org.comp301.Playlist.Model.Song;
+import org.comp301.Playlist.Model.SongImpl;
 
 public class App extends Application {
     @Override

@@ -1,14 +1,10 @@
-package org.comp301.ProfPractice.View;
+package org.comp301.MVC.View;
 
 import javafx.scene.Parent;
 import javafx.scene.layout.Pane;
 import javafx.scene.layout.VBox;
-import org.comp301.ProfPractice.Controller.Controller;
-import org.comp301.ProfPractice.Model.Playlist;
-import org.comp301.ProfPractice.Model.Song;
-
-import java.util.ArrayList;
-import java.util.List;
+import org.comp301.Playlist.Controller.Controller;
+import org.comp301.Playlist.Model.Playlist;
 
 public class PlaylistPanel implements FXComponent {
   Playlist playlist;

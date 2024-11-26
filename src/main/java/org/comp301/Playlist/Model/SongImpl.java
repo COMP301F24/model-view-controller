@@ -1,4 +1,4 @@
-package org.comp301.ProfPractice.Model;
+package org.comp301.Playlist.Model;
 
 public class SongImpl implements Song{
     private String title;

@@ -1,4 +1,4 @@
-package org.comp301.ProfPractice.View;
+package org.comp301.Playlist.View;
 
 import javafx.scene.Parent;
 import javafx.scene.control.Button;
@@ -8,7 +8,7 @@ import javafx.scene.control.TextField;
 import javafx.scene.layout.HBox;
 import javafx.scene.layout.Pane;
 import javafx.event.ActionEvent;
-import org.comp301.ProfPractice.Controller.Controller;
+import org.comp301.Playlist.Controller.Controller;
 
 
 public class AddSongPanel implements FXComponent {

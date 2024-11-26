@@ -71,7 +71,7 @@
                 <artifactId>javafx-maven-plugin</artifactId>
                 <version>0.0.5</version>
                 <configuration>
-                    <mainClass>org.comp301.ProfPractice.View.App</mainClass>
+                    <mainClass>org.comp301.Playlist.View.App</mainClass>
                 </configuration>
             </plugin>
         </plugins>

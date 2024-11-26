@@ -1,4 +1,4 @@
-package org.comp301.ProfPractice.Controller;
+package org.comp301.Playlist.Controller;
 
 public interface Controller {
     void shuffle();

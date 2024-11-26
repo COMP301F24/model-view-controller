@@ -1,15 +1,13 @@
-package org.comp301.ProfPractice.View;
+package org.comp301.MVC.View;
 
 import javafx.event.ActionEvent;
 import javafx.scene.Parent;
 import javafx.scene.control.Button;
 import javafx.scene.layout.Pane;
 import javafx.scene.layout.StackPane;
-import org.comp301.ProfPractice.Controller.Controller;
-import org.comp301.ProfPractice.Controller.ControllerImpl;
+import org.comp301.Playlist.Controller.Controller;
 
-
-public class ControlPanel implements FXComponent{
+public class ControlPanel implements FXComponent {
     Controller controller;
 
     public ControlPanel(Controller controller){

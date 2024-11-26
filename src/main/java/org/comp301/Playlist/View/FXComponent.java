@@ -1,4 +1,4 @@
-package org.comp301.ProfPractice.View;
+package org.comp301.Playlist.View;
 
 import javafx.scene.Parent;
 

@@ -1,4 +1,4 @@
-package org.comp301.ProfPractice.View;
+package org.comp301.MVC.View;
 
 import javafx.event.ActionEvent;
 import javafx.scene.Parent;
@@ -6,11 +6,10 @@ import javafx.scene.control.Button;
 import javafx.scene.control.Label;
 import javafx.scene.layout.HBox;
 import javafx.scene.layout.Pane;
-import org.comp301.ProfPractice.Controller.Controller;
-import org.comp301.ProfPractice.Controller.ControllerImpl;
-import org.comp301.ProfPractice.Model.Song;
+import org.comp301.Playlist.Controller.Controller;
+import org.comp301.Playlist.Model.Song;
 
-public class SongView implements FXComponent{
+public class SongView implements FXComponent {
     private Song song;
     private Controller controller;
     private int songIndex;

@@ -1,14 +1,13 @@
-package org.comp301.ProfPractice.View;
+package org.comp301.MVC.View;
 
 import javafx.scene.Parent;
 import javafx.scene.Scene;
 import javafx.scene.layout.Pane;
 import javafx.scene.layout.VBox;
 import javafx.stage.Stage;
-import org.comp301.ProfPractice.Controller.Controller;
-import org.comp301.ProfPractice.Model.Playlist;
-import org.comp301.ProfPractice.Model.PlaylistObserver;
-
+import org.comp301.Playlist.Controller.Controller;
+import org.comp301.Playlist.Model.Playlist;
+import org.comp301.Playlist.Model.PlaylistObserver;
 
 public class View implements FXComponent, PlaylistObserver {
     Playlist model;
