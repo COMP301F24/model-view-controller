@@ -1,0 +1,7 @@
+.tile{
+    -fx-background-color:#ffffff;
+    -fx-border-color:#000000;
+    -fx-pref-width:100px;
+    -fx-pref-height:100px;
+    -fx-font-size: 36;
+}
